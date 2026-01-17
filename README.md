@@ -3,13 +3,9 @@
 
 **Soliha1/Soliha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-
-- 🌱 I’m currently learning 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me: east95745@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 Currently learning Python and Django  
+ Looking for feedback and best practices to improve my backend development skills  
+ Ask me about Python, Django, and REST API basics  
+ How to reach me: soliha95745@gmail.com
 
